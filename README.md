@@ -1,8 +1,8 @@
 # python_diwali_sales_analysis
 
-1.Data Cleaning and Manipulation:
+ 1.Data Cleaning and Manipulation:
 
-  Performed thorough preprocessing to handle missing values, correct data formats, and remove inconsistencies in the dataset.
+ Performed thorough preprocessing to handle missing values, correct data formats, and remove inconsistencies in the dataset.
 
 2. Exploratory Data Analysis (EDA):
 
